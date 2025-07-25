@@ -6,6 +6,17 @@
     background-color: #075755;
 
 }
+.float-button{
+    background-color: #FF8539; 
+    bottom: 20px;
+    right: 20px;
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    position: fixed;
+
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
 .box{
     height: 100px;
 }
